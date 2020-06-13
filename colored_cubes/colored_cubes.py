@@ -1,4 +1,3 @@
-#ex15.2
 
 import matplotlib.pyplot as plt
 
